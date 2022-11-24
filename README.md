@@ -1,5 +1,8 @@
 # MAGD-150
 ## A collection of files I made for my MAGD-150 course
+
+https://github.com/BrandonMW11/MAGD-150
+
 #### Moving Squares
 I chose this one becuase it's the first assignment where I learned something new.  That thing being how to make shapes move which ended up being a vital skill for every assignemnt since, including the final.
 
